@@ -97,7 +97,8 @@ GROUP BY category;
 > ![image](https://github.com/user-attachments/assets/13353493-025c-4704-a3c0-fad9d7f33043)
 >
 >
->
+
+
 > ### ANALYSING DATA
 > 1. Categories by orders:
 ```sql
