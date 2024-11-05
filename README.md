@@ -44,5 +44,5 @@ Analysis includes finding:
 - Highest spend orders,
 - Most and least popular hours to order.
 
-[Link to Cleaning and analyzing file](Cleaning_and_analyzing.md#analyzind-data)
+[Link to Cleaning and analyzing file](Cleaning_and_analyzing.md#analyzing-data)
 
