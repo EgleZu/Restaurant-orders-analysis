@@ -33,7 +33,7 @@ It includes:
 - Handling missing values,
 - Understanding data.
 
-[Link to Cleaning and analyzing file](Cleaning_and_analyzing.sql)
+[Link to Cleaning and analyzing file](Cleaning_and_analyzing.md)
 
 ## Analyzing data
 Analysis includes finding: 
@@ -44,5 +44,5 @@ Analysis includes finding:
 - Highest spend orders,
 - Most and least popular hours to order.
 
-[Link to Cleaning and analyzing file](Cleaning_and_analyzing.sql)
+[Link to Cleaning and analyzing file](Cleaning_and_analyzing.md#analyzind-data)
 
