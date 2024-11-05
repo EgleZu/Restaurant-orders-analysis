@@ -1,3 +1,8 @@
+## Table of Contents
+- [CHECKING AND CLEANING DATA](#checking-and-cleaning-data)
+- [ANALYZING DATA](#analyzing-data)
+
+
 > ### CHECKING AND CLEANING DATA
 >
 > Data is consistent except from missing values in order_details table.
@@ -99,7 +104,7 @@ GROUP BY category;
 >
 
 
-> ### ANALYSING DATA
+> ### ANALYZING DATA
 > 1. Categories by orders:
 ```sql
 SELECT 
